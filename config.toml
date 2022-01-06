@@ -1,3 +1,9 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://www.zhyuntao.com/"
+title = "Zhang Yuntao's Site"
+author = "张云涛"
+canonifyurls = true
+languagecode = "en"
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
