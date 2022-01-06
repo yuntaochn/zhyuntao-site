@@ -8,3 +8,14 @@ pygmentsstyle       = "bw"
 pygmentscodefences  = true
 
 theme = "ananke"
+
+[params]
+  logo      = "/images/logo.jpg"
+  copyright = "zhangyuntao All rights reserved."
+#  twitter   = "https://twitter.com/rakuishi07"
+#  facebook  = "https://www.facebook.com/ochiishikoichiro"
+  github    = "https://github.com/yuntaochn/"
+  email     = "yuntaochn@163.com"
+#  analytics = "UA-12345678-9"
+
+
