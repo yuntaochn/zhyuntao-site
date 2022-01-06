@@ -3,8 +3,8 @@ title = "Zhang Yuntao's Site"
 author = "张云涛"
 canonifyurls = true
 languagecode = "en"
-theme = "academic"
 
 pygmentsstyle       = "bw"
 pygmentscodefences  = true
 
+theme = "ananke"
