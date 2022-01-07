@@ -338,7 +338,7 @@ uglyURLs = false
     # 说明：用于 JSON-LD、Open Graph
 
     # 站点的描述
-    siteDescription = "MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。"
+    siteDescription = "张云涛个人博客网站。"
     # 说明：用于 HTML 的头部元数据、JSON-LD、
     #      Open Graph、Atom、RSS
 
@@ -347,7 +347,7 @@ uglyURLs = false
     # 注意：请保持此格式，更改数字
 
     # 站点的推特帐号
-    siteTwitter = "reuixiy"
+    # siteTwitter = "reuixiy"
     # 说明：用于 Twitter Cards
 
 
@@ -569,7 +569,7 @@ uglyURLs = false
     # MathJax 公式支持（包括化学方程式）
 
     # 是否开启（全局设置）
-    enableMathJax = false
+    enableMathJax = true
     # 说明：文章的 Front Matter 中的 `mathjax`
     #      的优先级高于此处
 
