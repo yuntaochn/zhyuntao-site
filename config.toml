@@ -1,21 +1,31 @@
-baseURL = "https://www.zhyuntao.com/"
-title = "Zhang Yuntao's Site"
-author = "张云涛"
-canonifyurls = true
-languagecode = "en"
+# baseURL = "https://www.zhyuntao.com/"
+# title = "Zhang Yuntao's Site"
+# author = "张云涛"
+# canonifyurls = true
+# languagecode = "en"
 
-pygmentsstyle       = "bw"
-pygmentscodefences  = true
+BaseUrl = "https://www.zhyuntao.com/"
+LanguageCode = ""
+Title = "Zhang Yuntao's Site"
+DisqusShortname = ""
+GoogleAnalytics = ""
 
-theme = "ananke"
+theme = "next"
 
-[params]
-  logo      = "/images/logo.jpg"
-  copyright = "zhangyuntao All rights reserved."
-#  twitter   = "https://twitter.com/rakuishi07"
-#  facebook  = "https://www.facebook.com/ochiishikoichiro"
-  github    = "https://github.com/yuntaochn/"
-  email     = "yuntaochn@163.com"
-#  analytics = "UA-12345678-9"
+[Params]
+  Author = ""
+  Birth = ""
+  DateFormat = "Mon, Jan 2, 2006"
+  GravatarHash = ""
+  Facebook = ""
+  Twitter = ""
+  Github = ""
+  perPage = 10
+  ShowRelatedPost = true
+  ShowTagCloud = false
+  SyntaxHighlightTheme = "github.min.css"
+  infiniteScroll = true # if true, pagination will disabled.
 
+[Indexes]
+  tag = "tags"
 
