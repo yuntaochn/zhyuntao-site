@@ -1,0 +1,31 @@
+# baseURL = "https://www.zhyuntao.com/"
+# title = "Zhang Yuntao's Site"
+# author = "张云涛"
+# canonifyurls = true
+# languagecode = "en"
+
+BaseUrl = "https://www.zhyuntao.com/"
+LanguageCode = ""
+Title = "Zhang Yuntao's Site"
+DisqusShortname = ""
+GoogleAnalytics = ""
+
+theme = "next"
+
+[Params]
+  Author = ""
+  Birth = ""
+  DateFormat = "Mon, Jan 2, 2006"
+  GravatarHash = ""
+  Facebook = ""
+  Twitter = ""
+  Github = ""
+  perPage = 10
+  ShowRelatedPost = true
+  ShowTagCloud = false
+  SyntaxHighlightTheme = "github.min.css"
+  infiniteScroll = true # if true, pagination will disabled.
+
+[Indexes]
+  tag = "tags"
+
