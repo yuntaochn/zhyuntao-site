@@ -535,7 +535,7 @@ uglyURLs = false
 
     jsonLD = true
     openGraph = true
-    twitterCards = true
+    # twitterCards = true
     # 注意：如果你设置 twitterCards 为 `true`，
     #      请务必开启 openGraph。否则，网页的
     #      Twitter Cards 信息将会不完整。
@@ -1122,10 +1122,10 @@ uglyURLs = false
 
     displayShareOnText = false
 
-    shareOnTwitter = true
-    shareOnFacebook = true
-    shareOnLinkedIn = true
-    shareOnTelegram = true
+    # shareOnTwitter = true
+    # shareOnFacebook = true
+    # shareOnLinkedIn = true
+    # shareOnTelegram = true
     shareOnWeibo = true
     shareOnDouban = true
     shareOnQQ = true
